@@ -2,6 +2,11 @@
 
 My favourite dish. I hope enjoy it.
 
+  $ gem build pork_with_peaches.gemspec
+  $ sudo gem install pork_with_peaches-1.2.0.gem
+  $ porkwithpeaches
+ 
+
 == Contributing to pork_with_peaches
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
