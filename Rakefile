@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "pork_with_peaches"
   gem.homepage = "http://github.com/error400/pork_with_peaches"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Pork with Peaces"
+  gem.description = "Recipe"
   gem.email = "zilgar@mac.com"
   gem.authors = ["error400"]
   # dependencies defined in Gemfile
