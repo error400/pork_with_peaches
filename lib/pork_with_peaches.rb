@@ -24,11 +24,11 @@ class PorkWithPeaches
       | BBQ Sauce Saft der Pfirsiche, Sojasauce, Sahne und Gewürze mischen             |
       | und über das Fleisch geben.                                                    |
       |                                                                                |
-      | Auflaufform bei 180°C (Umluft) für 30 Minuten im Ofen Backen                   |
+      | Auflaufform bei 180°C (Umluft) für 30 Minuten im Ofen Backen.                  |
       |                                                                                |
-      | Pfirsichhälten in Butter anbraten bis die 'Farbe' bekommen.                    |
+      | Pfirsichhälten in Butter anbraten bis diese 'Farbe' bekommen.                  |
       |                                                                                |
-      | Fleich mit Pfirsichen Sauce und Reis Servieren.                                |
+      | Fleich mit Pfirsichen, Sauce und Reis servieren.                               |
       |                                                                                |
       |                                                                                |
       +--------------------------------------------------------------------------------+
