@@ -21,6 +21,7 @@ Jeweler::Tasks.new do |gem|
   gem.description = "Recipe"
   gem.email = "zilgar@mac.com"
   gem.authors = ["error400"]
+  gem.executables = ["porkwithpeaches"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
